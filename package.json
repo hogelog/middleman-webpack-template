@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": "hogelog <konbu.komuro@gmail.com>",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
     "css-loader": "^0.28.1",
