@@ -1,0 +1,15 @@
+{
+  "name": "chibibit-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hogelog <konbu.komuro@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "css-loader": "^0.28.1",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "node-sass": "^4.5.2",
+    "sass-loader": "^6.0.3",
+    "style-loader": "^0.17.0",
+    "webpack": "^2.4.1"
+  }
+}
